@@ -1,0 +1,19 @@
+## `.gitignore`
+
+```gitignore
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Environment
+venv/
+.env
+
+# Data
+data/processed/
+*.csv
+
+# OS/IDE files
+.DS_Store
+.vscode/
