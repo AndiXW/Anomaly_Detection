@@ -4,10 +4,10 @@ This repository contains Group 4’s final project for CS549, focused on detecti
 
 ## Team Members
 
-- Trevor Thayer — Random Forests, Repository Structure, Documentation  
-- Anthony Do — SVM, Preprocessing  
-- Anh Huy Nguyen — Isolation Forests, Feature Scaling  
-- Isabelle Viraldo — K-Means Clustering, Project Objectives  
+- Trevor Thayer — Random Forests, Repository Structure, Documentation
+- Anthony Do — SVM, Preprocessing, Documentation  
+- Anh Huy Nguyen — Isolation Forests, Feature Scaling, Preprocessing, Documentation
+- Isabelle Viraldo — K-Means Clustering, Project Objectives, Documentation  
 
 ## Repo Structure
 
